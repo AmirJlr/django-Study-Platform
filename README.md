@@ -13,6 +13,5 @@ Each user can :
 - Create room in certain topic
 - Join other user's room
 - Write message in the rooms
-- 
 
 
